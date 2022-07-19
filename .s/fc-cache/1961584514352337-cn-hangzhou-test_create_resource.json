@@ -1,0 +1,6 @@
+{
+  "serviceName": "test",
+  "functionNames": [
+    "test/test"
+  ]
+}

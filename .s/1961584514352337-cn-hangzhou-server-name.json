@@ -1,0 +1,37 @@
+{
+  "statefulConfig": {
+    "serviceName": "server-name",
+    "description": "hello world by serverless devs",
+    "role": "",
+    "logConfig": {
+      "project": "",
+      "logstore": "",
+      "enableRequestMetrics": false,
+      "enableInstanceMetrics": false,
+      "logBeginRule": "None"
+    },
+    "serviceId": "a426306b-14cf-4405-b680-5607186b70e3",
+    "createdTime": "2022-07-19T06:06:11Z",
+    "lastModifiedTime": "2022-07-19T06:06:11Z",
+    "vpcConfig": {
+      "vpcId": "",
+      "vSwitchIds": [],
+      "securityGroupId": "",
+      "role": "",
+      "anytunnelViaENI": null
+    },
+    "internetAccess": true,
+    "nasConfig": {
+      "userId": -1,
+      "groupId": -1,
+      "mountPoints": []
+    },
+    "vendorConfig": null,
+    "tracingConfig": {
+      "type": null,
+      "params": null,
+      "jaegerConfig": null
+    },
+    "name": "server-name"
+  }
+}

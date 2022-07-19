@@ -1,0 +1,38 @@
+{
+  "statefulConfig": {
+    "functionId": "a12e29fd-05ba-4685-b8b9-49f197f19bce",
+    "functionName": "test",
+    "description": "hello world by serverless devs",
+    "runtime": "python3",
+    "handler": "index.handler",
+    "timeout": 60,
+    "initializer": "",
+    "initializationTimeout": 3,
+    "codeSize": 366,
+    "codeChecksum": "3849583760699246540",
+    "memorySize": 128,
+    "gpuMemorySize": null,
+    "environmentVariables": {},
+    "createdTime": "2022-07-19T05:13:21Z",
+    "lastModifiedTime": "2022-07-19T06:02:14Z",
+    "instanceConcurrency": 1,
+    "instanceSoftConcurrency": null,
+    "customContainerConfig": null,
+    "caPort": null,
+    "instanceType": "e1",
+    "layers": null,
+    "instanceLifecycleConfig": {
+      "preFreeze": {
+        "handler": "",
+        "timeout": 3
+      },
+      "preStop": {
+        "handler": "",
+        "timeout": 3
+      }
+    },
+    "customDNS": null,
+    "customRuntimeConfig": null,
+    "name": "test"
+  }
+}
